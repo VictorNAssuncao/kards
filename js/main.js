@@ -1,10 +1,3 @@
-"use strict";
-
-console.log("╦╔═┌─┐┬─┐┌┬┐┌─┐");
-console.log("╠╩╗├─┤├┬┘ ││└─┐");
-console.log("╩ ╩┴ ┴┴└──┴┘└─┘");
-console.log("Alan | V1.5 2021")
-
 /* <=================================== Elements / Variables ===================================> */
 const e_mainContainer = document.getElementById('main-container');
 const e_cardsContainer = document.getElementById('cards-container');
